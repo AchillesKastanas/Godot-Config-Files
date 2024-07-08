@@ -1,4 +1,4 @@
-**Editor Theme:** "Everforest High Contrast" ( Custom )
+**Editor Theme:** "Everforest High Contrast" ( Custom )\
 **General Theme + Layout:** Drop the editor_settings-4.tres in the Godot installation path
 
 **Result**
